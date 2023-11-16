@@ -1,0 +1,36 @@
+{
+  "header": {
+    "demo": "Live demo"
+  },
+  "footer": {
+    "powered_by": "Created with ❤️ by",
+    "terms": "Terms",
+    "privacy": "Privacy"
+  },
+  "home": {
+    "hero": {
+      "featured": "Save time",
+      "title": "planning your lessons",
+      "subtitle": "We help teachers create fun, interactive lessons aligned with the AP curriculum and showing real-life examples. Save time on lesson planning and focus on what matters most: your students."
+    }
+  },
+  "waiting": {
+    "title": "Get notified when we're launching.",
+    "subtitle": "Join the waiting list and get 50% off the first year. We won’t spam you. We’ll use your email address only to notify you when we’re launching.",
+    "email": "Email address",
+    "email_placeholder": "Enter your email",
+    "action": "Notify me",
+    "success": "Thank you! We'll notify you when we're launching.",
+    "error": "Something went wrong. Please try again later."
+  },
+  "metadata": {
+    "home": {
+      "title": "Educasso: Interactive lessons aligned with the AP curriculum",
+      "description": "Create fun and interactive lessons with real-life examples aligned with the Advanced Placement curriculum. Learn how to save time on lesson planning for your students.",
+      "twitter": {
+        "title": "Educasso",
+        "description": "Fun and interactive lessons aligned with the AP curriculum to help teachers save time on lesson planning."
+      }
+    }
+  }
+}

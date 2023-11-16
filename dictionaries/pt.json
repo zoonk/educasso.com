@@ -1,0 +1,36 @@
+{
+  "header": {
+    "demo": "Demonstração"
+  },
+  "footer": {
+    "powered_by": "Criado com ❤️ por",
+    "terms": "Termos",
+    "privacy": "Privacidade"
+  },
+  "home": {
+    "hero": {
+      "featured": "Economize tempo",
+      "title": "ao planejar suas aulas",
+      "subtitle": "Ajudamos professores a criar aulas interativas e divertidas, que atendem às normas da BNCC. Tudo com exemplos práticos. Economize tempo e foque no que mais importa: os seus alunos."
+    }
+  },
+  "waiting": {
+    "title": "Saiba quando o Educasso estiver no ar",
+    "subtitle": "Entre na lista de espera e ganhe 50% de desconto no primeiro ano. Não enviaremos spam. Usaremos seu endereço de email apenas para avisá-lo quando o Educasso estiver no ar.",
+    "email": "Endereço de email",
+    "email_placeholder": "Digite seu email",
+    "action": "Avisar",
+    "success": "Obrigado! Você receberá um email quando o Educasso estiver no ar.",
+    "errpr": "Ocorreu um erro. Por favor, tente novamente."
+  },
+  "metadata": {
+    "home": {
+      "title": "Educasso: Aulas interativas com as normas da BNCC",
+      "description": "Como criar aulas interativas, práticas e divertidas seguindo as normas da BNCC. Aprenda e economizar tempo planejando suas aulas.",
+      "twitter": {
+        "title": "Educasso",
+        "description": "Aulas interativas, práticas e divertidas que seguem as normas da BNCC. Economize tempo ao planejar suas aulas."
+      }
+    }
+  }
+}

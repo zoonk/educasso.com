@@ -1,0 +1,19 @@
+{
+  "name": "Educasso",
+  "short_name": "Educasso",
+  "icons": [
+    {
+      "src": "/icon3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#a5f3fc",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
